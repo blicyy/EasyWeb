@@ -11,4 +11,4 @@
 
 ## Reporting a Vulnerability
 
-Just create an (issue)[https://github.com/blicyy/EasyWeb/issues].
+Just create an [issue](https://github.com/blicyy/EasyWeb/issues).
