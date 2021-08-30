@@ -27,8 +27,8 @@ jobs:
     steps:
     # Runs a single command using the runners shell
     - name: Print the path
-      run: pwd
+      run: pwd && ls
     - name: Print content
-      run: ls
+      run: cd .. && ls
     - name: Idk
       run: cd .. && ls
