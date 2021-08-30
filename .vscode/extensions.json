@@ -1,7 +1,9 @@
 {
   "recommendations": [
-    "arcanis.vscode-zipfs",
     "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "ms-vscode.vscode-typescript-next",
+    "kiteco.kite",
+    "tabnine.tabnine-vscode",
   ]
 }
