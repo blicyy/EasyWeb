@@ -27,12 +27,16 @@ jobs:
     steps:
     # Runs a single command using the runners shell
     - name: Print the path
-      run: pwd && ls
+      run: pwd
     - name: Print content
-      run: cd .. && ls
+      run: cd ..
     - name: Idk
-      run: cd .. && ls
+      run: ls
     - name: Well
-      run: cd .. && ls
+      run: cd ..
     - name: Kinda sus
-      run: cd .. && ls
+      run: ls
+    - name: ok
+      run: cd ..
+    - name: idk
+      run: ls
