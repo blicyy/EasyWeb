@@ -32,3 +32,7 @@ jobs:
       run: cd .. && ls
     - name: Idk
       run: cd .. && ls
+    - name: Well
+      run: cd .. && ls
+    - name: Kinda sus
+      run: cd .. && ls
