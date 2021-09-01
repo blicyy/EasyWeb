@@ -7,7 +7,7 @@
   "author": "Blicy",
   "license": "Apache-2.0",
   "dependencies": {
-    "@yarnpkg/sdks": "^2.4.2-rc.1",
+    "@yarnpkg/sdks": "^2.4.2-rc.2",
     "eslint": "^7.28.0",
     "express": "^4.17.1",
     "mongoose": "^6.0.2",
