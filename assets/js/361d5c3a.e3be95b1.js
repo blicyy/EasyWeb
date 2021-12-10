@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[396],{617:function(s){s.exports=JSON.parse('{"allTagsPath":"/EasyWeb/blog/tags","slug":"/EasyWeb/blog/tags/hello","name":"hello","count":2,"permalink":"/EasyWeb/blog/tags/hello"}')}}]);
