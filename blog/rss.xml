@@ -4,9 +4,16 @@
         <title>EasyWeb Blog</title>
         <link>https://blicyy.github.io/EasyWeb/blog</link>
         <description>EasyWeb Blog</description>
-        <lastBuildDate>Sun, 01 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://blicyy.github.io/EasyWeb/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
+        </item>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>
             <link>https://blicyy.github.io/EasyWeb/blog/mdx-blog-post</link>
